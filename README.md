@@ -7,4 +7,3 @@
 # Screenshot 2: RC lab based final output
 # Screenshot 3: RISC-V lab based output with manual calculation
 # Screenshot 4: C based lab final output with manual calculation
-# screen
